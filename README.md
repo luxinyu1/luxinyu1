@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxinyu1&show_icons=true&theme=vue)
-
 🌱 Focusing on scalable methods to build Agentic LLMs.
 
 ![sumy7](https://komarev.com/ghpvc/?username=luxinyu1)
